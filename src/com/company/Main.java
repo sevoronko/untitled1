@@ -16,7 +16,10 @@ public class Main {
                 pattern = in.nextLine();
             } catch (Exception e) {
                 e.printStackTrace();
+
+
                 
+
             }
             //Write your code
             try {
